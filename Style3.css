@@ -1,48 +1,48 @@
-/* Custom CSS for Home Section Background */
+
 .home-bg {
-    background-image: url('/Hotel/restaurant-interior_1127-3394.avif'); /* Replace 'home-bg.jpg' with your background image */
+    background-image: url('./restaurant-interior_1127-3394.avif'); 
     background-size: cover;
     background-position: center;
     color: white;
     padding: 100px 0;
     text-align: center;
-    font-family: 'Poppins', sans-serif; /* Unique font */
+    font-family: 'Poppins', sans-serif; 
 }
 
-/* Custom CSS for Carousel in About Us Section */
+
 .carousel-item img {
-    max-height: 400px; /* Adjust the maximum height of carousel images */
+    max-height: 400px; 
     width: 100%;
     object-fit: cover;
 }
 
-/* Custom CSS for About Us Section */
+
 .about-section {
-    background-color: #f8f9fa; /* Unique background color */
-    font-family: 'Poppins', sans-serif; /* Unique font */
-    color: #333; /* Text color */
+    background-color: #f8f9fa; 
+    font-family: 'Poppins', sans-serif; 
+    color: #333; 
 }
 
-/* Custom CSS for Contact Section */
+
 .contact-section {
-    background-color: #343a40; /* Unique background color */
-    font-family: 'Poppins', sans-serif; /* Unique font */
-    color: white; /* Text color */
+    background-color: #343a40; 
+    font-family: 'Poppins', sans-serif; 
+    color: white; 
 }
 
-/* Additional styling for buttons */
+
 .btn-primary {
-    background-color: #343a40; /* Button background color */
-    border-color: #343a40; /* Button border color */
-    font-family: 'Poppins', sans-serif; /* Unique font */
+    background-color: #343a40; 
+    border-color: #343a40; 
+    font-family: 'Poppins', sans-serif;
 }
 
 .btn-primary:hover {
-    background-color: #212529; /* Button background color on hover */
-    border-color: #212529; /* Button border color on hover */
+    background-color: #212529; 
+    border-color: #212529; 
 }
 
 .navbar-brand {
-    font-family: 'Poppins', sans-serif; /* Unique font */
-    color: white; /* Text color */
+    font-family: 'Poppins', sans-serif; 
+    color: white; 
 }
